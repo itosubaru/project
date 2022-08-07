@@ -1,3 +1,4 @@
 h1{color: blue;}
 h1{border: dashed thick green;}
-h2{border: inset 1px black;}
+h2{border: inset 5px black;}
+th,td{border: inset 1px black;}
